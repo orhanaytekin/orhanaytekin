@@ -4,5 +4,5 @@
 
 Contact me:
 - ✉  contactorhanaytekin@gmail.com
-- 📞 (+90) 541 560 7885     
+- 📞 (+90) 541 560 7885 (WhatsApp)
 - LinkedIn https://www.linkedin.com/in/orhanaytekin
