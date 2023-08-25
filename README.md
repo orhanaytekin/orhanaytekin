@@ -1,7 +1,6 @@
 ### Hi, I am Orhan 👋
 
-- 🔭 
-- 🌱 
+- 🔭 I am currently working as a Junior Software Engineer @NeuronicPBM via @orhanaytkn.
 
 Contact me:
 - ✉  contactorhanaytekin@gmail.com
