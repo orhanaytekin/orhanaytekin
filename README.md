@@ -1,6 +1,8 @@
 ### Hi, I am Orhan 👋
 
-- 🔭 I am currently working as a Junior Software Engineer [@NeuronicPBM](https://github.com/NeuronicPBM) via [@orhanaytkn](https://github.com/orhanaytkn).
+- 🔭 I am currently working as a Junior Backend Developer [@PlusMinusOne](https://www.plusminusone.co/). 
+
+- Ex: Junior Software Engineer [@NeuronicPBM](https://github.com/NeuronicPBM) via [@orhanaytkn](https://github.com/orhanaytkn).
 
 Contact me:
 - E-mail   contactorhanaytekin@gmail.com
