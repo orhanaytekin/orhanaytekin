@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Orhan 👋<br><br>- 🔭 I am currently working as a Backend Developer [@PlusMinusOne](https://www.plusminusone.co/). <br><br>- Ex: Software Engineer [@NeuronicPBM](https://github.com/NeuronicPBM) via [@orhanaytkn](https://github.com/orhanaytkn).<br><br>Contact me:<br>- E-mail   contactorhanaytekin@gmail.com<br>- WhatsApp (+90) 541 560 7885 <br>- LinkedIn https://www.linkedin.com/in/orhanaytekin<br>
+Hi, I am Orhan 👋<br><br>- 🔭 I am currently working as a Backend Developer [@PlusMinusOne](https://www.plusminusone.co/). PS: I use [Bitbucket](https://bitbucket.org/) now 🙃.<br><br>- Ex: Software Engineer [@NeuronicPBM](https://github.com/NeuronicPBM) via [@orhanaytkn](https://github.com/orhanaytkn).<br><br>Contact me:<br>- E-mail   contactorhanaytekin@gmail.com<br>- WhatsApp (+90) 541 560 7885 <br>- LinkedIn https://www.linkedin.com/in/orhanaytekin<br>
 
 
 ## 🌐 Socials:
